@@ -1,0 +1,45 @@
+# Archivos de usuario
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.a
+*.so
+*.dylib
+
+# Configuración de VS y Rider
+.vs/
+.idea/
+*.sln.iml
+
+# Archivos generados por MSBuild
+*.props
+*.targets
+*.resources
+
+# Configuración del editor
+*.editorconfig
+
+# Archivos de estado y metadatos
+*.csproj.*
+*.db
+*.up2date
+*.vsidx
+*.buildwithskipanalyzers
+*.v2
+
+# Otros archivos temporales
+*.log
+*.tmp
+
+# Configuración específica del entorno
+CursosRegistros/bin/
+CursosRegistros/obj/
